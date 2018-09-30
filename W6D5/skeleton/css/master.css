@@ -1,0 +1,14 @@
+/* @keyframes example {
+    from {background-color: red;}
+    to {background-color: yellow;}
+} */
+
+div {
+  color: hotpink;
+  font-family: sans-serif;
+  background: #1e225c;
+  /* display: flex; */
+  align-content: center;
+  margin-left: 10%;
+  margin-right: 10%
+}
